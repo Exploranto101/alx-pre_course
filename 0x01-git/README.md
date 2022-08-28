@@ -1,1 +1,1 @@
-My second readme
+its time to focus on coding
